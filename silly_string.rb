@@ -34,13 +34,13 @@ letter_count = big_word.length
 
 # Put a . after big_word and use a String method.
 
-# puts "There are #{letter_count} in #{big_word}"
+puts "There are #{letter_count} in #{big_word}"
 
 # Challenge 5: Add "bigger_word to big_word
 
-# bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_word
-# bigger_word = "big_word + mom +wow"
-# new_letter_count = bigger_word.size
+bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_word
+bigger_word = "big_word + mom +wow"
+new_letter_count = bigger_word.size
 
 # puts "There are now #{new_letter_count} in #{bigger_word}"
 
