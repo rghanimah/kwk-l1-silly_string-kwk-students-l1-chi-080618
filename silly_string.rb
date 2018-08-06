@@ -48,7 +48,9 @@ puts "There are now #{new_letter_count} in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
 
-proper_sentence = "i really like programming.".capitalize # Put a . after the string to capitalize it properly.
+proper_sentence = "i really like programming."
+
+capitalize # Put a . after the string to capitalize it properly.
 
 puts proper_sentence
 
