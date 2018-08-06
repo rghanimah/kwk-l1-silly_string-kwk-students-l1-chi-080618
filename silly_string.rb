@@ -1,3 +1,5 @@
+puts "my favorite word is flabbergast"
+puts "my favorite word is flabbergast".upcase
 
 # Challenge 1: Fill this string in with your favorite word
 
