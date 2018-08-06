@@ -27,9 +27,9 @@ puts lowercased_phrase
 
 # Challenge 4: Count how many letters are in that big_word
 
-# big_word = "supercalifragilisticexpialidocious".length
-# letter_count = big_word.length
-# letter_count = big_word 
+big_word = "supercalifragilisticexpialidocious".length
+letter_count = big_word.length
+letter_count = big_word 
 
 
 # Put a . after big_word and use a String method.
