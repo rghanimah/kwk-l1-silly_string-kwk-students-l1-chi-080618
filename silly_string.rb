@@ -31,7 +31,7 @@ big_word = "supercalifragilisticexpialidocious".length
 letter_count = big_word.length
 letter_count = big_word # Put a . after big_word and use a String method.
 
-puts "There are #{letter_count} in #{big_word}"
+# puts "There are #{letter_count} in #{big_word}"
 
 # Challenge 5: Add "bigger_word to big_word
 
